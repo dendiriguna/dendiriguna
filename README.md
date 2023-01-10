@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dendiriguna
-- 👀 I’m interested in fullstack web developing
+- 👀 I’m interested in web developing
 - 🌱 I’m currently learning html, css, javascript & c++
 - 💞️ I’m looking to collaborate on developing some web 
 - 📫 you can send an e-mail to dendiriguna@yahoo.com for business
